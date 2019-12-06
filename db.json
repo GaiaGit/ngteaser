@@ -2,7 +2,7 @@
   "reels": [
     { "id": 1, "name": "Incredible content" },
     { "id": 2, "name": "Assets compilation" },
-    { "id": 3, "name": "Project Briefing" }
+    { "id": 5, "name": "Project Briefing" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
