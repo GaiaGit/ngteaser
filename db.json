@@ -1,8 +1,8 @@
 {
   "reels": [
-    { "id": 1, "name": "Incredible content" },
-    { "id": 2, "name": "Assets compilation" },
-    { "id": 5, "name": "Project Briefing" }
+    { "id": 1, "name": "Incredible content", "description": "Very very very very very very long description lorem ipsum superdoopylongestword...." },
+    { "id": 2, "name": "Assets compilation", "description": "Very long description lorem ipsum superdoopylongestword...." },
+    { "id": 5, "name": "Project Briefing", "description": "Short description" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
