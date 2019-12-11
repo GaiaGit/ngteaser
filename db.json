@@ -12,7 +12,7 @@
      "viewsTotal": 12,
      "viewersTotal": 9,
      "sharedTotal": 6,
-     "editorsTotal": 3
+     "editorsTotal": 3,
      "view": true,
      "edit": true,
      "saveAs": true,
@@ -30,7 +30,7 @@
      "viewsTotal": 120,
      "viewersTotal": 100,
      "sharedTotal": 200,
-     "editorsTotal": 23
+     "editorsTotal": 23,
      "view": true,
      "edit": false,
      "saveAs": true,
@@ -48,7 +48,7 @@
      "viewsTotal": 50,
      "viewersTotal": 17,
      "sharedTotal": 26,
-     "editorsTotal": 8
+     "editorsTotal": 8,
      "view": true,
      "edit": true,
      "saveAs": true,
